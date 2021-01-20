@@ -13,9 +13,9 @@
 ## Description
 
 
-The purpose of this assignment was to create a way to search, save and look up books using a web application utilizing React and the Google Books API.  I used axios to call the API in React.   
+The purpose of this assignment was to create a way to search, save and look up books using a web application utilizing React and the Google Books API.  Axios is used to call the API in React.   
 
-Live app: https://hw21-google-book.herokuapp.com/
+Live app: https://thawing-ocean-63699.herokuapp.com/
 
 
 ## Installation
